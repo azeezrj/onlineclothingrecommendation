@@ -1,6 +1,6 @@
 <?php
 	
-	//peça de roupa
+	//garment
 	Class Clothe
 	{
 		public function showAll(){
@@ -26,7 +26,7 @@
 		}
 
 		public function addToList($id){
-			//adiciona a peça de roupa a lista de comprados
+			//add the item to the shopping list
 
 			$clothePurchased = json_decode(Clothe::findById($id));
 

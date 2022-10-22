@@ -24,7 +24,7 @@
 			
 			$available = json_decode($clotheController->getAll());
 			
-			//faz recomendações se tiver no mínino três peças de roupas disponíveis
+			//makes recommendations if you have at least three pieces of clothing available
 			$purchasedCount = 0;
 			foreach ($available as $clothe) {
 				if ($this->alreadyPurchased($clothe->id)) {
@@ -39,8 +39,8 @@
 
 			$points = [];
 			$y = 0;
-			//pontua as peças
-			//as peças com maior quantidade de pontos são recomendadas
+			//scores the pieces
+			//the pieces with the highest amount of points are recommended
 			do{
 				$tempPts = 0;
 				$tempId = 999;
