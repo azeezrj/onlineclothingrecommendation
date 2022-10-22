@@ -1,0 +1,156 @@
+[
+	{	
+		"id": 0,
+		"image":"./assets/images/jean_1.jpg",
+		"name":"black jean",
+		"gender":"male",
+		"material":"cotton",
+		"color":"black",
+		"origin":"national",
+		"type":"superior"
+	},
+	{
+		"id": 1,
+		"image":"./assets/images/trouser.jpg",
+		"name":"Black long trouser",
+		"gender":"male",
+		"material":"cotton",
+		"color":"brown",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 2,
+		"image":"./assets/images/Crazy jean.jpg",
+		"name":"crazy jean",
+		"gender":"male",
+		"material":"cotton",
+		"color":"black",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 3,
+		"image":"./assets/images/jean.jpg",
+		"name":"Black crazy jean",
+		"gender":"male",
+		"material":"cotton",
+		"color":"black",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 4,
+		"image":"./assets/images/Long jean.jpg",
+		"name":"Long jean",
+		"gender":"male",
+		"material":"cotton",
+		"color":"black brown",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 5,
+		"image":"./assets/images/Longsleeve shirt.jpg",
+		"name":"Long sleeve shirt",
+		"gender":"male",
+		"material":"cotton",
+		"color":"blue",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 6,
+		"image":"./assets/images/Original Jean.jpg",
+		"name":"original long jean",
+		"gender":"male",
+		"material":"cotton",
+		"color":"blue",
+		"origin":"national",
+		"type":"superior"
+	},
+	{
+		"id": 7,
+		"image":"./assets/images/plaid_shirt.jpg",
+		"name":"lady shirt",
+		"gender":"female",
+		"material":"cotton",
+		"color":"brown",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 8,
+		"image":"./assets/images/Polo shirt.jpg",
+		"name":"polo shirt",
+		"gender":"male",
+		"material":"cotton",
+		"color":"black",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 9,
+		"image":"./assets/images/Polo.jpg",
+		"name":"Black original polo",
+		"gender":"male",
+		"material":"cotton",
+		"color":"black",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 10,
+		"image":"./assets/images/Royal Polo.jpg",
+		"name":"Royal polo",
+		"gender":"male",
+		"material":"cotton",
+		"color":"blue",
+		"origin":"national",
+		"type":"superior"
+	},
+	{
+		"id": 11,
+		"image":"./assets/images/short shirt.jpg",
+		"name":"vintage short shirt",
+		"gender":"male",
+		"material":"cotton",
+		"color":"brown",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 12,
+		"image":"./assets/images/T shirt.jpg",
+		"name":"Black long t shirt",
+		"gender":"male",
+		"material":"cotton",
+		"color":"white",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 13,
+		"image":"./assets/images/original vintage.jpg",
+		"name":"Black long trouser",
+		"gender":"male",
+		"material":"cotton",
+		"color":"brown",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 14,
+		"image":"./assets/images/original long polo.jpg",
+		"name":"Black long trouser",
+		"gender":"male",
+		"material":"cotton",
+		"color":"brown",
+		"origin":"international",
+		"type":"superior"
+	}
+	
+
+]
+	
+	
