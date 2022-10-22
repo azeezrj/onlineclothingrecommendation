@@ -1,4 +1,4 @@
-# https://github.com/azeezrj/onlineclothingrecommendation
+# [clothingrecom](https://github.com/azeezrj/onlineclothingrecommendation)
 
  A simple clothing recommendation system based on purchased clothing, made with PHP.
 
